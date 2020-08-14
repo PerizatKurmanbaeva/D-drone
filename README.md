@@ -3,8 +3,8 @@ Drawing drone. Draws on the wall with spray paint using computer vision for prec
 
 # Recent tasks:
 - [X] Todo list created
-- [ ] Buy Balonchik
-- [ ] Learn 3D Cad software
-- [ ] Create Balonchik model
-- [ ] Create "hello world" website using PHP/Python/NodeJS
+- [X] Buy Balonchik
+- [X] Learn 3D Cad software
+- [X] Create Balonchik model
+- [X] Create "hello world" website using PHP/Python/NodeJS
 - [ ] Launch drone in Copellasim
