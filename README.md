@@ -8,3 +8,7 @@ Drawing drone. Draws on the wall with spray paint using computer vision for prec
 - [X] Create Balonchik model
 - [X] Create "hello world" website using PHP/Python/NodeJS
 - [ ] Launch drone in Copellasim
+- [ ] To add a button to renew
+- [ ] Add a download button
+- [ ] 
+
