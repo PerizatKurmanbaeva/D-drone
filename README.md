@@ -1,5 +1,6 @@
 # D-drone
-Drawing drone. Draws on the wall with spray paint using computer vision for precise navigation
+Drawing drone. Draws on the wall with spray paint using computer vision for precise navigation.
+
 You will need:
 - spray paint
 - clover 4 kit
