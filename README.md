@@ -1,13 +1,15 @@
 # D-drone
 Drawing drone. Draws on the wall with spray paint using computer vision for precise navigation.
 
-You will need:
+# You will need:
 - spray paint
 - clover 4 kit
 - servo MG90S
 - 3D printer
 - hot glue and gun
 - spray can extension straw
+- velcro
+- 
 
 # Step 1. Build a drone
 First of all you should build Clover Drone. Our project is based on [Clover 4.2 WorldSkills](https://clover.coex.tech/en/assemble_4_2_ws.html). 
